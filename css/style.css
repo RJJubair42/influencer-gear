@@ -15,10 +15,6 @@ html {
   scroll-behavior: smooth;
 }
 /* Header Section Starts */
-.nav-header {
-  background-color: #000000;
-  overflow: hidden;
-}
 .nav-container {
   display: flex;
   justify-content: space-between;
